@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bensu</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Junior Software Engineer</h3>
 
 ###
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bozyurt21&label=Profile%20views&color=0e75b6&style=flat" alt="bozyurt21" /> </p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
@@ -25,8 +26,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
 </div>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bozyurt21&label=Profile%20views&color=0e75b6&style=flat" alt="bozyurt21" /> </p>
 
 - 🌱 I’m currently learning **Swift**
 
