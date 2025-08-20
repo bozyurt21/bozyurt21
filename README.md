@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bensu Özyurt</h1>
+<h1 align="center">Hi 👋, I'm Bensu</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 ###
